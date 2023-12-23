@@ -1,0 +1,6 @@
+[submodule "coursedata"]
+	path = coursedata
+	url = https://github.com/AaltoVision/CV-course-py-data.git
+[submodule "notebooks"]
+	path = notebooks
+	url = https://github.com/AaltoVision/CV-course-py-notebooks.git

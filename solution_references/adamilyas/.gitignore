@@ -1,0 +1,9 @@
+**/work
+*.txt
+*.zip
+.ipynb_checkpoints
+.graphs-1
+.submission
+data_mining_book.pdf
+SzeliskiBook_20100903_draft.pdf
+__pycache__
